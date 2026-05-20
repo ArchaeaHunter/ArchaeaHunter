@@ -4,9 +4,9 @@
 I am a bio-informatician (but still loving the wet-lab), I am developping analysis pipelines and managing biological data.
 
 ### Programmation langages 
-Expert : Python (Numpy, Scipy, Matplotlib, Scikit-Learn and PyTorch)
-Medium : Matlab, Ada, Julia
-Basic : R, Rust
+- Expert : Python (Numpy, Scipy, Matplotlib, Scikit-Learn and PyTorch)
+- Medium : Matlab, Ada, Julia
+- Basic : R, Rust
 
 ### Top projects 
 - Dry-Lab leader at [IGEM Toulouse 2022](https://2022.igem.wiki/toulouse-insa-ups/) awarded with a Gold medal. I have put in place a model of interaction between aggregating bacteria to detect allergies.
