@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I am Raphaël 
 
-<!--
-**ArchaeaHunter/ArchaeaHunter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## INSA Toulouse engineer in Biology
+I am a bio-informatician (but still loving the wet-lab), I am developping analysis pipelines and managing biological data.
 
-Here are some ideas to get you started:
+### Programmation langages 
+Expert : Python (Numpy, Scipy, Matplotlib, Scikit-Learn and PyTorch)
+Medium : Matlab, Ada, Julia
+Basic : R, Rust
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Top projects 
+- Dry-Lab leader at [IGEM Toulouse 2022](https://2022.igem.wiki/toulouse-insa-ups/) awarded with a Gold medal. I have put in place a model of interaction between aggregating bacteria to detect allergies.
+- Part of the [ANR DECO](https://anr.fr/Projet-ANR-18-CE43-0005) project to search for coevolution signals between glycosides hydrolases using AlphaFold and AMBER tool for molecular dynamics, then wetlab experimentations to extract glycosides hydrolases complexes to conduct SAXS analysis.
+- Study engineer for the [ANR ThermAdapt](https://anr.fr/Projet-ANR-22-CE02-0027) project where I hunt for rare archaea with OGT (Optimal Growth Temperature) to built a database and conduct analysis to elucidate the relation between the proteome and the structures with the thermoadaptation of prokaryotes species. 
+
+### Contact 
+E-mail : __raphael.fruchard@protonmail.com__
+LinkedIn : __https://www.linkedin.com/in/raphaëlfruchard/__
